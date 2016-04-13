@@ -3,3 +3,4 @@ bye world
 see you again
 c1
 fix bug
+release-1.0
